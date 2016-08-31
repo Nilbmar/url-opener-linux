@@ -2,15 +2,11 @@
 Easy setup for opening Microsoft's .URL shortcuts with Linux' file managers.
 
 1. Check where bash is located in the file system and make adjustments to the openurl.sh script as needed
-    ```
-    #!/usr/bin/bash
-    ```
+    `#!/usr/bin/bash`
 
     or 
     
-    ```
-    #!/bin/bash
-    ```
+    `#!/bin/bash`
 
 2. Make sure the file is executable
 
